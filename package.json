@@ -1,0 +1,18 @@
+{
+  "name": "@writ/sdom",
+  "version": "1.0.0",
+  "description": "It is my dom util",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "window",
+    "document",
+    "HTML",
+    "HTML5",
+    "Css",
+    "EcmaScript",
+    "JavaScript"
+  ],
+  "author": "田路刚 tianlugang@yeah.com",
+  "license": "ISC"
+}
